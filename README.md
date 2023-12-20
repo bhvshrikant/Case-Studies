@@ -6,6 +6,7 @@ This repository contains a collection of data analysis case studies conducted us
 
 1. [Yulu Case Study](#Yulu Case Study)
 2. [Netflix Case Study](#Netflix Case Study)
+3. [Target Case Study](#Target Case Study)
 
 ## **Yulu Case Study**
 
@@ -36,3 +37,18 @@ This case study aims to explore and analyze the Netflix dataset, uncovering valu
 ### Files
 - `NETFLIX_CASE_STUDY_BHV_SHRIKANT.ipynb`: Jupyter Notebook containing the complete analysis.
 - `netflix_titles.csv`: Dataset used for the analysis.
+
+
+## **Target Case Study**
+
+### Overview
+This case study aims to gain valuable insights into Target's operations in Brazil. Analysis of various aspects of the business, such as order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction levels is done.
+
+### Key Questions
+1. Which time of the year has a peak in the number of orders placed?
+2. Which time of the day has a peak in the number of visitors?
+3. Which mode of payment is the most preferred?
+4. What is the most common loan tenure?
+
+### Files
+-`BHV SHRIKANT_TARGET`: BigQuerry file (pdf)
