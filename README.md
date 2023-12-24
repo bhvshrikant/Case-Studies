@@ -4,9 +4,9 @@ This repository contains a collection of data analysis case studies conducted us
 
 ## Table of contents :
 
-1. [Yulu Case Study](#Yulu Case Study)
-2. [Netflix Case Study](#Netflix Case Study)
-3. [Target Case Study](#Target Case Study)
+1. Yulu Case Study
+2. Netflix Case Study
+3. Target Case Study
 
 ## **Yulu Case Study**
 
