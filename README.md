@@ -13,8 +13,8 @@ This repository contains a collection of data analysis case studies conducted us
 
 ### Overview
 The case study aims to understand and process the data coming out of data engineering pipelines:
-• Clean, sanitize, and manipulate data to get useful features out of raw fields.
-• Make sense of the raw data so that the data science team can build forecasting models on it.
+1. Clean, sanitize, and manipulate data to get useful features out of raw fields.
+2. Make sense of the raw data so that the data science team can build forecasting models on it.
 
 ### Key Questions
 1. Which corridor is the busiest?
