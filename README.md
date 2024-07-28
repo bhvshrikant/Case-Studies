@@ -4,10 +4,47 @@ This repository contains a collection of data analysis case studies conducted us
 
 ## Table of contents :
 
-1. Delhivery Case Study
-2. Netflix Case Study
-3. Yulu Case Study
-4. Target Case Study
+1. Scaler Learner Clustering Case Study
+2. Ola Driver Churn Case Study
+3. Delhivery Feature Engineering Case Study
+4. Netflix Content Case Study
+5. Yulu Case Study
+6. Target Case Study
+
+
+## **Scaler Case Study**
+
+### Overview
+The case study aims to cluster the learners based on their profiles:
+1. Used KNN imputation to fill missing values.
+2. Implemented K-Means, DBSCAN and Hierarchical clustering techniques.
+
+### Key Questions
+1. Who are the  top employees based on their compensation?
+2. On an average how much are these top employees earning and what are the companies for which they are  working?
+3. What are the top job titles?
+
+### Files
+- `Scaler_Learner_Clustering_Shrikant_Bhv.ipynb`: Jupyter Notebook containing the complete analysis.
+- `scaler_clustering.csv`: Dataset used for the analysis
+
+
+## **Ola Case Study**
+
+### Overview
+The case study aims to understand the top reasons of drivers churning out and preidct whether a driver will leave the company given their profile:
+1. Analysed monthly driver inflow and churn out patterns.
+2. Analysed the correlation of churn out with parameters like last_date_of_promotion, quarterly_rating.
+
+### Key Questions
+1. What are  the top reasons for driver churn out?
+2. What are the quarterly ratings of the drivers who churned out?
+3. What are the top reasons for the driver churn out?
+
+### Files
+- `OLA_Ensemble_Driver_Churn_Shrikant_Bhv.ipynb`: Jupyter Notebook containing the complete analysis.
+- `ola_driver_churn.csv`: Dataset used for the analysis
+  
 
 ## **Delhivery Case Study**
 
