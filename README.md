@@ -39,7 +39,6 @@ The case study aims to understand the top reasons of drivers churning out and pr
 ### Key Questions
 1. What are  the top reasons for driver churn out?
 2. What are the quarterly ratings of the drivers who churned out?
-3. What are the top reasons for the driver churn out?
 
 ### Files
 - `OLA_Ensemble_Driver_Churn_Shrikant_Bhv.ipynb`: Jupyter Notebook containing the complete analysis.
