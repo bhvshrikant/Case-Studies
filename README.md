@@ -10,6 +10,7 @@ This repository contains a collection of data analysis case studies conducted us
 4. Netflix Content Case Study
 5. Yulu Case Study
 6. Target Case Study
+7. Twitter Case Study
 
 
 ## **Scaler Case Study**
@@ -106,3 +107,19 @@ This case study aims to gain valuable insights into Target's operations in Brazi
 
 ### Files
 -`Target_Case_Study_Shrikant_Bhv`: BigQuerry file (pdf)
+
+
+## **Twitter Case Study**
+
+### Overview
+The case study aims to automate 'Named Entity Recognition' on Twitter Data
+1. Used class weights and minority sampling to handle class imbalance.
+2. Implemented BiLSTM + CRF first, and then a Transformer based (BERT) model.
+
+### Key Questions
+1. Which NER Tag  has the highest count?
+2. What is the vocabulary size?
+
+### Files
+- `twitter_ner_nlp_shrikant_bhv.ipynb`: Jupyter Notebook containing the complete analysis.
+- `wnut 16.txt.conll`: Dataset used for the analysis
