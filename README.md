@@ -11,6 +11,7 @@ This repository contains a collection of data analysis case studies conducted us
 5. Yulu Case Study
 6. Target Case Study
 7. Twitter Case Study
+8. Ninjacart Case Study
 
 
 ## **Scaler Case Study**
@@ -117,9 +118,20 @@ The case study aims to automate 'Named Entity Recognition' on Twitter Data
 2. Implemented BiLSTM + CRF first, and then a Transformer based (BERT) model.
 
 ### Key Questions
-1. Which NER Tag  has the highest count?
-2. What is the vocabulary size?
+1. Which NER Tag has the highest count?
+
+
+## **Ninjacart Case Study**
+
+### Overview
+The case study aims to to distinguish between images of vegetables (onion, potato, tomato) and noise (Indian market scenes):
+1. Developed a Baseline CNN Model from scratch.
+2. Implemented Transfer Learning (MobileNet, ResNet).
+
+### Key Questions
+1. How accurately can the model differentiate between vegetable images and market scenes?
+2. Which model architecture yields the best performance?
 
 ### Files
-- `twitter_ner_nlp_shrikant_bhv.ipynb`: Jupyter Notebook containing the complete analysis.
-- `wnut 16.txt.conll`: Dataset used for the analysis
+- `Ninjacart_CV_Shrikant_Bhv.ipynb`: Jupyter Notebook containing the complete analysis.
+- `ninjacart_data.zip`: Dataset used for the analysis
